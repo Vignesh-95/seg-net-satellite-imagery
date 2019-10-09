@@ -1,0 +1,7 @@
+The model is set to Testing
+check point file: /home/cs/students/u15031625/256_SegNet/Logs/model.ckpt-49999
+Potsdam testing dir: ./Index/test.txt
+Batch Size: 8
+Log dir: ./Logs
+acc:  0.5725849666542915
+mean IU:  0.32256217436975143
