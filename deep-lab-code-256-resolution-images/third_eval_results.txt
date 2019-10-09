@@ -1,0 +1,15 @@
+INFO:tensorflow:Starting evaluation at 2018-10-20-15:24:54
+INFO:tensorflow:Evaluation [290/2904]
+INFO:tensorflow:Evaluation [580/2904]
+INFO:tensorflow:Evaluation [870/2904]
+INFO:tensorflow:Evaluation [1160/2904]
+INFO:tensorflow:Evaluation [1450/2904]
+INFO:tensorflow:Evaluation [1740/2904]
+INFO:tensorflow:Evaluation [2030/2904]
+INFO:tensorflow:Evaluation [2320/2904]
+INFO:tensorflow:Evaluation [2610/2904]
+INFO:tensorflow:Evaluation [2900/2904]
+INFO:tensorflow:Evaluation [2904/2904]
+INFO:tensorflow:Finished evaluation at 2018-10-20-15:25:52
+miou_1.0[0.62455]
+
