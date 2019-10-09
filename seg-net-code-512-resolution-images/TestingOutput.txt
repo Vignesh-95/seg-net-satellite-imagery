@@ -1,0 +1,5 @@
+The model is set to Testing
+check point file: sdf
+Potsdam testing dir: ./Index/test.txt
+Batch Size: 4
+Log dir: ./Logs
