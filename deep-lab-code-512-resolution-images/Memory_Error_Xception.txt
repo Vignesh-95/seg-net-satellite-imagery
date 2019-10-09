@@ -1,0 +1,2 @@
+tensorflow/core/common_runtime/bfc_allocator.cc:215] Allocator (GPU_0_bfc) ran out of memory trying to allocate 1.26GiB. The caller indicates that this is not a failure, but may mean that there could be performance gains if more memory were available.
+INFO:tensorflow:Recording summary at step 0.

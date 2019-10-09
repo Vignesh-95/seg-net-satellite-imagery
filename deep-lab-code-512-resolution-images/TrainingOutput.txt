@@ -1,0 +1,1 @@
+:/home/cs/students/u15031625/512_DeepLab/models/research:/home/cs/students/u15031625/512_DeepLab/models/research/slim
